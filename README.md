@@ -1,5 +1,4 @@
-# Lizer-Chen.github.io
-#晚上吃虾嘛
+浪漫至死不渝——Forever Young
 
 <!DOCTYPE HTML>
 <!--
@@ -19,7 +18,7 @@
 		<!-- Header -->
 			<div id="header">
 				<span class="logo icon fa-paper-plane"></span>
-				<h1>Hi. This is Directive.</h1>
+				<h1>晚上吃虾嘛？</h1>
 				<p>A responsive HTML5 + CSS3 site template designed by <a href="http://html5up.net">HTML5 UP</a>
 				<br />
 				and released for free under the <a href="http://html5up.net/license">Creative Commons license</a>.</p>
